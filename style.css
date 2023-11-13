@@ -1,8 +1,9 @@
 #imab {margin-left: 30%;
 }
-h1 {color: deepskyblue;
+h1 {color: rgb(0, 191, 255);
 }
 h1 {font-size: 300%;
 }
-h1 {border:solid 3px royalblue;
+h1 {border:solid 3px rgb(93, 192, 253);
 } 
+body {background-color: rgb(0, 0, 0);}
